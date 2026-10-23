@@ -4,5 +4,32 @@
   "institution": "Universitas Anda",
   "citation_style": "APA-7th",
   "google_docs_url": "",
-  "language": "id"
+  "language": "id",
+  "chapters": [
+    {
+      "id": 1,
+      "title": "Bab I: Pendahuluan",
+      "file": "drafts/bab-1-pendahuluan.md"
+    },
+    {
+      "id": 2,
+      "title": "Bab II: Tinjauan Pustaka",
+      "file": "drafts/bab-2-tinjauan-pustaka.md"
+    },
+    {
+      "id": 3,
+      "title": "Bab III: Metode Penelitian",
+      "file": "drafts/bab-3-metodologi-penelitian.md"
+    },
+    {
+      "id": 4,
+      "title": "Bab IV: Hasil dan Pembahasan",
+      "file": "drafts/bab-4-hasil-dan-pembahasan.md"
+    },
+    {
+      "id": 5,
+      "title": "Bab V: Kesimpulan dan Saran",
+      "file": "drafts/bab-5-kesimpulan-dan-saran.md"
+    }
+  ]
 }
