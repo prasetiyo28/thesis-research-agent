@@ -1,0 +1,6 @@
+.agentwork/
+data/raw/*
+!data/raw/.gitkeep
+*.tmp
+.env
+.DS_Store
